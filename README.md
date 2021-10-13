@@ -1,8 +1,5 @@
 ### Hi there ,I'm Ritika Tiwari👋
 
-<!--
-**supermoon02/supermoon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About Me:
 
 -🧑‍🎓Pre final year B.tech Student.
